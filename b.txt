@@ -1,0 +1,4 @@
+lets practice git this is b.txt file
+done staging and first commit
+pushed the empty file to the git hub
+
